@@ -8,4 +8,4 @@ DevOps is easy
 deployment
 echo this was the best decission i ever made in my life
 life changing strategies
-4
+#RIP BABA
